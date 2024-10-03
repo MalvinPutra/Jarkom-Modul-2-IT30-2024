@@ -273,7 +273,7 @@ Markas pusat meminta dibuatnya domain khusus untuk menaruh informasi persenjataa
 
   ```
   #!/bin/bash
-
+  
 echo 'zone "rujapala.it30.com" {
 	type master;
 	file "/etc/bind/jarkom/rujapala.it30.com";
