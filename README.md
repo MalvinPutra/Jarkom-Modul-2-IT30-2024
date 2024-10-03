@@ -271,9 +271,8 @@ Markas pusat meminta dibuatnya domain khusus untuk menaruh informasi persenjataa
 
 - sama seperti nomer 2 dan 3 yaitu memasukkan script ke /root/.bashrc
 
-  ```
+```
   #!/bin/bash
-  
 echo 'zone "rujapala.it30.com" {
 	type master;
 	file "/etc/bind/jarkom/rujapala.it30.com";
